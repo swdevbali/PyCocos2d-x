@@ -38,4 +38,13 @@
       <Filter>resource</Filter>
     </ResourceCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="iso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zigzag.tmx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Snippet.txt" />
+  </ItemGroup>
 </Project>
