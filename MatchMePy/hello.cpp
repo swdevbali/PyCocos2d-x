@@ -3,7 +3,7 @@
 
 char const* greet()
 {
-   return "hello, world";
+   return "hello, world!";
 }
 
 BOOST_PYTHON_MODULE(hello_ext)
